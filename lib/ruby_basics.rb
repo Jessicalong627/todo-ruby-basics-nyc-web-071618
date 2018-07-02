@@ -11,7 +11,7 @@ def argue(letter)
 end
 
 def greeting(name, place)
-
+  "#{name} lives in a #{place}"
 end
 
 def return_a_value
